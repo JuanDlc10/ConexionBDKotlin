@@ -6,7 +6,7 @@ Este manual te guiará paso a paso para realizar una conexión a una base de dat
 
 - Node.js y npm instalados.
 - MySQL instalado y configurado.
-- Base de datos llamada `comics` con una tabla `t_usuarios`.
+- Base de datos `example` con una tabla `t_example`.
 - Conocimientos básicos en JavaScript, SQL y Kotlin.
 
 ## Instalación de Dependencias en JavaScript
